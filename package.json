@@ -49,7 +49,7 @@
     "fluent-json-schema": "^4.0.0",
     "readable-stream": "^4.2.0",
     "svelte": "^3.52.0",
-    "undici": "^5.12.0"
+    "undici": "^7.18.2"
   },
   "devDependencies": {
     "@beyonk/svelte-notifications": "^4.2.0",
